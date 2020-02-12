@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "dd() and dump() in javascript",
   "main": "dump.js",
-  "jsnext:main": "dump.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/Freezon/dump_laravel_js.git"
