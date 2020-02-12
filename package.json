@@ -1,0 +1,22 @@
+{
+  "name": "dump_laravel_js",
+  "version": "1.0.0",
+  "description": "dd() and dump() in javascript",
+  "main": "dump.js",
+  "jsnext:main": "dump.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Freezon/dump_laravel_js.git"
+  },
+  "keywords": [
+    "dd",
+	"dump",
+	"laravel"
+  ],
+  "author": "Freezon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Freezon/dump_laravel_js/issues"
+  },
+  "homepage": "https://github.com/Freezon/dump_laravel_js"
+}
